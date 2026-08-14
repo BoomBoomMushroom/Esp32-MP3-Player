@@ -1,8 +1,12 @@
 # ESP32 MP3 Player
 An MP3 Player powered by an ESP32, with both bluetooth and a speaker output
 
+I made this project because I want to move away from Spotify and own the songs I play. I have bought a dozen or two songs from bandcamp and that will be whats played on this!
 
-![hero](https://stardance.hackclub.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTUsInB1ciI6ImJsb2JfaWQifX0=--269b192c95623bc6ae103e464e98b6090e1e3c3a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMTYwMCw5MDBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6NzV9fSwicHVyIjoidmFyaWF0aW9uIn19--3bc8a2c9d65e3b087c0c0b37dcfb642bb247bc73/image.png)
+<img width="1056" height="757" alt="687474~1" src="https://github.com/user-attachments/assets/e5cc1791-f8dc-4aed-85ed-c3ca22416e03" />
+
+<img width="976" height="708" alt="image" src="https://github.com/user-attachments/assets/1bb8201a-ac6e-4326-b671-4117dff0c027" />
+
 
 
 Video of it working (Nothing here yet, still need funding)
